@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Updater.cs](./CS/ClientServer_Wcf_StandardAuth.Module/DatabaseUpdate/Updater.cs) (VB: [Updater.vb](./VB/ClientServer_Wcf_StandardAuth.Module/DatabaseUpdate/Updater.vb))
+* [Module.cs](./CS/ClientServer_Wcf_StandardAuth.Module/Module.cs) (VB: [Module.vb](./VB/ClientServer_Wcf_StandardAuth.Module/Module.vb))
+* **[ServerProgram.cs](./CS/ClientServer_Wcf_StandardAuth.Server/ServerProgram.cs) (VB: [ServerProgram.vb](./VB/ClientServer_Wcf_StandardAuth.Server/ServerProgram.vb))**
+* [ClientProgram.cs](./CS/ClientServer_Wcf_StandardAuth.Win/ClientProgram.cs) (VB: [ClientProgram.vb](./VB/ClientServer_Wcf_StandardAuth.Win/ClientProgram.vb))
+<!-- default file list end -->
 # OBSOLETE - How to: Configure a WCF ApplicationServer and win/web client.
 
 
